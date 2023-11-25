@@ -1,0 +1,61 @@
+html {
+    background-color: #323b4c3f;
+}
+
+body{
+    display: flex;
+    align-items: flex-start;
+    width: 65%;
+    margin: auto;
+    background-color: white;
+    opacity: 2;
+}
+
+section{
+    
+    height: 100%;
+    width: 25%;
+    background-color: #323b4c;
+    color: white;
+    padding-left: 3em;
+}
+
+main{
+   
+    width: 70%;    
+    padding-left: 2em;
+    padding-right: 1em;
+}
+section h2{
+    border-bottom: solid 1px white
+}
+section h3{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+section p{
+    margin-top: 0;
+}
+
+img{
+    width: 80%;
+    border-radius: 35%;
+    margin: 2%;
+}
+main div{
+padding-left: 1em;
+}
+main div h4{
+    padding-left: 1em;
+} 
+main div p{
+    padding-left: 2em;
+}
+
+main h2{
+    border-bottom: solid black 1px;
+}
+
+h3.school {
+    margin-top: 0;   
+}
